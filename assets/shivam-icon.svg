@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <defs>
+    <linearGradient id="shivamIconNavy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09111E"/>
+      <stop offset="100%" stop-color="#1B2A4A"/>
+    </linearGradient>
+    <linearGradient id="shivamIconGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Hexagon Frame -->
+  <polygon points="32,4 58,19 58,45 32,60 6,45 6,19" fill="url(#shivamIconNavy)" stroke="url(#shivamIconGold)" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Skyline -->
+  <rect x="16" y="28" width="8" height="24" fill="#3B82F6" opacity="0.8"/>
+  <rect x="27" y="16" width="11" height="36" fill="url(#shivamIconGold)"/>
+  <rect x="41" y="24" width="8" height="28" fill="#60A5FA" opacity="0.9"/>
+  <!-- Windows -->
+  <line x1="30" y1="22" x2="35" y2="22" stroke="#09111E" stroke-width="1.5"/>
+  <line x1="30" y1="28" x2="35" y2="28" stroke="#09111E" stroke-width="1.5"/>
+  <line x1="30" y1="34" x2="35" y2="34" stroke="#09111E" stroke-width="1.5"/>
+  <line x1="30" y1="40" x2="35" y2="40" stroke="#09111E" stroke-width="1.5"/>
+  <!-- Baseline -->
+  <line x1="12" y1="52" x2="52" y2="52" stroke="#FBBF24" stroke-width="2" stroke-linecap="round"/>
+</svg>
